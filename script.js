@@ -1,5 +1,5 @@
-let botName = "CodeBot";
-let botLocation = "Accra";
+let botName = "LTODTN-259";
+let botLocation = "Accra, Ghana";
 let favoriteLanguage = "JavaScript";
 
 let codingFact1 = "I love coding with " + favoriteLanguage + ".";
